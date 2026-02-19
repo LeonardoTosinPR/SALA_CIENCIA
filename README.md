@@ -22,8 +22,8 @@ Este projeto foi desenvolvido com foco em interatividade, design visual imersivo
     <td align="center"><img src="src/assets/tela2.png" width="300" alt="Planetário - Detalhes"/><br/><b>Detalhes do Planeta</b><br/>Informações científicas detalhadas sobre cada planeta</td>
   </tr>
   <tr>
-    <td align="center"><img src="src/assets/tela3.png" width="300" alt="Planetário - Órbita"/><br/><b>Órbitas Planetárias</b><br/>Visualização das trajetórias orbitais ao redor do Sol</td>
-    <td align="center"><img src="src/assets/tela4.png" width="300" alt="Planetário - Exploração"/><br/><b>Exploração Interativa</b><br/>Interface para navegação e seleção de planetas</td>
+    <td align="center"><img src="src/assets/tela3.png" width="300" alt="Museu - Navegação"/><br/><b>Navegação do Museu</b><br/>Interface de seleção e acesso às diferentes salas temáticas</td>
+    <td align="center"><img src="src/assets/tela4.png" width="300" alt="Museu - Sala de Química"/><br/><b>Sala de Química</b><br/>Sala interativa com hotspots sobre reações químicas e estrutura elementar</td>
   </tr>
 </table>
 
@@ -31,12 +31,12 @@ Este projeto foi desenvolvido com foco em interatividade, design visual imersivo
 
 <table>
   <tr>
-    <td align="center"><img src="src/assets/tela5.png" width="300" alt="Museu - Laboratório de Química"/><br/><b>Laboratório de Química</b><br/>Sala interativa com hotspots sobre reações químicas, estrutura elementar e eletroquímica</td>
-    <td align="center"><img src="src/assets/tela6.png" width="300" alt="Museu - Laboratório de Física"/><br/><b>Laboratório de Física</b><br/>Experimentos e demonstrações de conceitos fundamentais da física</td>
+    <td align="center"><img src="src/assets/tela5.png" width="300" alt="Museu - Conteúdo Química"/><br/><b>Conteúdo de Química</b><br/>Detalhes e informações sobre tópicos de química abordados na sala</td>
+    <td align="center"><img src="src/assets/tela6.png" width="300" alt="Créditos"/><br/><b>Créditos</b><br/>Informações de autores, orientadores e instituições envolvidas no projeto</td>
   </tr>
   <tr>
-    <td align="center"><img src="src/assets/tela7.png" width="300" alt="Museu - Sala de Matemática"/><br/><b>Sala de Matemática e Geografia</b><br/>Espaço educativo com modelos geométricos, conjuntos de dados e mapas cartográficos</td>
-    <td align="center"><img src="src/assets/tela8.png" width="300" alt="Museu - Navegação"/><br/><b>Navegação do Museu</b><br/>Interface de seleção e acesso às diferentes salas temáticas</td>
+    <td align="center"><img src="src/assets/tela7.png" width="300" alt="Museu - Sala de Física"/><br/><b>Sala de Física</b><br/>Laboratório com conceitos e experimentos de física interativa</td>
+    <td align="center"><img src="src/assets/tela8.png" width="300" alt="Museu - Conteúdo Física"/><br/><b>Conteúdo de Física</b><br/>Descrição detalhada de tópicos e conceitos de física</td>
   </tr>
 </table>
 
