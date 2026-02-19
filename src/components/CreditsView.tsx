@@ -143,7 +143,7 @@ export function CreditsView() {
           <span>•</span>
           <span>Projeto Sala Ciência</span>
           <span>•</span>
-          <span>2024-2026</span>
+          <span>2025-2026</span>
         </div>
       </motion.div>
     </div>

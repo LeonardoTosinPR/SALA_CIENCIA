@@ -12,7 +12,35 @@ Este projeto foi desenvolvido com foco em interatividade, design visual imersivo
 - **Lucide React:** Biblioteca de ícones.
 - **Vite:** Build tool (assumido pelo ambiente).
 
-## 📂 Estrutura do Projeto
+## � Galeria de Telas
+
+### Planetário Interativo
+
+<table>
+  <tr>
+    <td align="center"><img src="src/assets/tela1.png" width="300" alt="Planetário - Visão Geral"/><br/><b>Sistema Solar 3D</b><br/>Visualização interativa de todos os planetas do sistema solar</td>
+    <td align="center"><img src="src/assets/tela2.png" width="300" alt="Planetário - Detalhes"/><br/><b>Detalhes do Planeta</b><br/>Informações científicas detalhadas sobre cada planeta</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="src/assets/tela3.png" width="300" alt="Planetário - Órbita"/><br/><b>Órbitas Planetárias</b><br/>Visualização das trajetórias orbitais ao redor do Sol</td>
+    <td align="center"><img src="src/assets/tela4.png" width="300" alt="Planetário - Exploração"/><br/><b>Exploração Interativa</b><br/>Interface para navegação e seleção de planetas</td>
+  </tr>
+</table>
+
+### Museu Digital
+
+<table>
+  <tr>
+    <td align="center"><img src="src/assets/tela5.png" width="300" alt="Museu - Laboratório de Química"/><br/><b>Laboratório de Química</b><br/>Sala interativa com hotspots sobre reações químicas, estrutura elementar e eletroquímica</td>
+    <td align="center"><img src="src/assets/tela6.png" width="300" alt="Museu - Laboratório de Física"/><br/><b>Laboratório de Física</b><br/>Experimentos e demonstrações de conceitos fundamentais da física</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="src/assets/tela7.png" width="300" alt="Museu - Sala de Matemática"/><br/><b>Sala de Matemática e Geografia</b><br/>Espaço educativo com modelos geométricos, conjuntos de dados e mapas cartográficos</td>
+    <td align="center"><img src="src/assets/tela8.png" width="300" alt="Museu - Navegação"/><br/><b>Navegação do Museu</b><br/>Interface de seleção e acesso às diferentes salas temáticas</td>
+  </tr>
+</table>
+
+## �📂 Estrutura do Projeto
 
 ```
 /
